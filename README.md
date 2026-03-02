@@ -14,20 +14,7 @@ It provides:
 5. Randomized testing for robust verification.
 
 ## 📂 Project Structure
-UVM_RAL_APB/
-├─ rtl/                 # APB DUT RTL
-├─ tb/                  # Testbench sources
-│  ├─ interfaces/       # top_if.sv
-│  ├─ sequences/        # reg_access_seq.sv
-│  ├─ drivers/          # my_driver.sv
-│  ├─ monitors/         # my_monitor.sv
-│  ├─ agents/           # my_agent.sv
-│  ├─ adapters/         # my_adapter.sv
-│  ├─ scoreboards/      # my_scoreboard.sv
-│  ├─ environment/      # my_env.sv
-│  └─ tests/            # my_test.sv
-├─ sim/                 # Simulation scripts (run.do)
-└─ README.md
+<img width="546" height="335" alt="image" src="https://github.com/user-attachments/assets/e3131e9d-e6f4-4b55-999b-a8e43e699580" />
 
 
 ## How to Run
