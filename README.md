@@ -29,6 +29,3 @@ It provides:
 1. vsim tb_new
 2. run_test("my_test");
 
-Modular and reusable for new APB peripherals.
-
-Fully adheres to UVM best practices.
